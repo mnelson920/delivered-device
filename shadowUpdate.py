@@ -5,7 +5,7 @@ import json
 import getopt
 from AWSIoTPythonSDK.MQTTLib import AWSIoTMQTTShadowClient
 
-# Shadow JSON schema:
+# Shadow JSON scheme:
 #
 # Name: LEDStatus
 # {
